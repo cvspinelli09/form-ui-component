@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/form-material-ui/static/css/main.d1b05096.chunk.css",
+    "main.js": "/form-material-ui/static/js/main.ba978774.chunk.js",
+    "main.js.map": "/form-material-ui/static/js/main.ba978774.chunk.js.map",
+    "runtime-main.js": "/form-material-ui/static/js/runtime-main.a0072be3.js",
+    "runtime-main.js.map": "/form-material-ui/static/js/runtime-main.a0072be3.js.map",
+    "static/js/2.9a72c170.chunk.js": "/form-material-ui/static/js/2.9a72c170.chunk.js",
+    "static/js/2.9a72c170.chunk.js.map": "/form-material-ui/static/js/2.9a72c170.chunk.js.map",
+    "index.html": "/form-material-ui/index.html",
+    "precache-manifest.867d5ea241d9de3e0db94e0bf7a5a42d.js": "/form-material-ui/precache-manifest.867d5ea241d9de3e0db94e0bf7a5a42d.js",
+    "service-worker.js": "/form-material-ui/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/form-material-ui/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.9a72c170.chunk.js.LICENSE.txt": "/form-material-ui/static/js/2.9a72c170.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0072be3.js",
+    "static/js/2.9a72c170.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.ba978774.chunk.js"
+  ]
+}
